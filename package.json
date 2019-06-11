@@ -1,0 +1,22 @@
+{
+  "name": "chidori",
+  "version": "1.0.0",
+  "description": "Micro-framework que ainda esta sendo alimentado conforme uso em projetos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonewill/chidori.git"
+  },
+  "keywords": [
+    "SCSS"
+  ],
+  "author": "Will Leone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leonewill/chidori/issues"
+  },
+  "homepage": "https://github.com/leonewill/chidori#readme"
+}
